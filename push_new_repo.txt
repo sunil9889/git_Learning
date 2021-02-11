@@ -1,6 +1,6 @@
 …or create a new repository on the command line
 echo "# git_Learning" >> README.md
-git init
+git init  
 git add README.md
 git commit -m "first commit"
 git branch -M main
@@ -11,3 +11,4 @@ git push -u origin main
 git remote add origin https://github.com/sunil9889/git_Learning.git
 git branch -M main
 git push -u origin main
+hello
